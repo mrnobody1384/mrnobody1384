@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Your Name], a junior backend developer with a passion for Node.js and Express.js.
+I'm Mohammad Fatehi, a junior backend developer with a passion for Node.js and Express.js.
 
 ## About Me
 
@@ -48,7 +48,5 @@ I'm excited to announce that I'll be collaborating with a frontend developer on 
 
 ## Contact Me
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+- Email: ostoore69@gmail.com
 
